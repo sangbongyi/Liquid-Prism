@@ -1,3 +1,15 @@
+/* 
+  Liquid prism project
+  Copyright (c) 2024 Sangbong Lee <sangbong@me.com>
+  
+  * ESP32 board with three light sensors for laser. 
+  * This code allows the custom-designed esp32 board to get values from scattered laser light in the test tube. 
+  * The data from the board is transmitted through WiFi to the sound system.
+
+  This work is licensed under the Creative Commons Attribution 4.0 International License.
+  To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+*/
+
 // Include Libraries
 #include <WiFi.h>
 #include <ArduinoOTA.h>
