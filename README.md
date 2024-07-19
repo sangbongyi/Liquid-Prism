@@ -1,6 +1,6 @@
 # Liquid Prism (ESP32 Board)
 
-**_ESP32 board with three light sensors for laser. This code allows the custom-designed esp32 board to get values from scattered laser light in the test tube. The data from the board is transmitted through WiFi to the sound system_**
+**_ESP32 board with three light sensors for laser. This code allows the custom-designed esp32 board to get values from scattered laser light in the test tube. The data from the board is transmitted through WiFi to the sound system._**
 
 ## Introduction
 
