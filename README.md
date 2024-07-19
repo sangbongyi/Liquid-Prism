@@ -4,13 +4,11 @@
 
 ## Introduction
 
-This work is an artistic research and experiment about dependent origination. According to this notion, a single event or being reflects only a fragment of the whole world and time, so that we can approximate a closer picture of the complex interconnection between every entity and its dependency by reassembling pieces of the whole.
-
-We are only seeing a part of the surroundings we live through. This experienced world is composed not only of ourselves but also of the unnoticed beings that surround us. Machines cover our living spaces and communicate with each other, yet we don't perceive their existence since machines are concealed, and use different language from ours. Therefore, we consider them not worthy to pay attention until they are not working properly. This apathy makes us difficult to draw the whole picture of the moment we are experiencing.
+Liquid Prism is a laboratory-like instrument that measures the subtle nuances of the liquid in several test tubes and its movements and changes due to chemical interactions with aspirin and other substances. The reactions, including bubbles, that occur during the melting process are converted into audio-visual data by an integrated laser beam and piezo sensors and can thus be experienced.
 
 ![Hidden dependency image 1](https://github.com/sangbongyi/Hidden-dependency_Teensy4.0/blob/bdb2c83e4cc6f38d191d2d059ad9f9abcb4df117/assets/images/image_1.png)
 
-:Exhibition, Studies of change, 30.05 - 02.06.2024 Alte pathologie, Bremen, Germany Photo: Sangbong Lee
+:Exhibition, Water paths, Performance, 24.05.2024, MS Dauerwelle - HFK Boat, Bremen, Germany Photo: Jimmy Liu, Hsu HsunHsiang
 
 Video link : https://vimeo.com/957161334
 
