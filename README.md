@@ -2,8 +2,8 @@
 
 **_ESP32 board with three light sensors for laser. This code allows the custom-designed esp32 board to get values from scattered laser light in the test tube. The data from the board is transmitted through WiFi to the sound system._**
 
-Chihim Chik - Sound, Interaction design
-Sangbong Lee - Hardware design, Microcontroller programming
+-Chihim Chik - Sound, Interaction design
+-Sangbong Lee - Hardware design, Microcontroller programming
 
 ## Introduction
 
