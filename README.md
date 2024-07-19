@@ -1,6 +1,6 @@
 # Liquid Prism (ESP32 Board)
 
-**_Bluetooth scanner for ESP32 board. This code allows the esp32 board to scan Bluetooth devices nearby and transmits a command to the Teensy board through i2C._**
+**_ESP32 board with three light sensors for laser. This code allows the custom-designed esp32 board to get values from scattered laser light in the test tube. The data from the board is transmitted through WiFi to the sound system_**
 
 ## Introduction
 
@@ -10,7 +10,8 @@ The work is inspired by the attitudes and practices of alchemists in the pre-sci
 
 ![Liquid Prism image 1](assets/images/img_LiquidPrism_1.png)
 
-:Exhibition, Water paths, Performance, 24.05.2024, MS Dauerwelle - HFK Boat, Bremen, Germany Photo: Jimmy Liu, Hsu HsunHsiang
+:Exhibition, Water paths, Performance, 24.05.2024, MS Dauerwelle - HFK Boat, Bremen
+Germany Photo: Jimmy Liu, Hsu HsunHsiang
 
 Video link : https://vimeo.com/980528463
 
