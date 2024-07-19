@@ -12,7 +12,7 @@ The work is inspired by the attitudes and practices of alchemists in the pre-sci
 
 :Exhibition, Water paths, Performance, 24.05.2024, MS Dauerwelle - HFK Boat, Bremen, Germany Photo: Jimmy Liu, Hsu HsunHsiang
 
-Video link : https://youtu.be/8B3QWiLvOOs
+Video link : https://vimeo.com/980528463
 
 ## Interaction diagram
 The instrument consists of eight signal generators made up of test tubes and electronic circuits. Each device generates two kinds of signals from chemical reactions inside the tubes and transmits them to the sound system, which generates soundscapes based on two kinds of data. The lasers in the device are scattered by the bubbles inside the tube, and this interaction is converted into a digital signal that is transmitted. Piezo sensors coupled to the mouth of the tube transmits the vibrations created by the bubbles inside to the system.
