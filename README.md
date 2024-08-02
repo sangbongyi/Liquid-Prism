@@ -13,10 +13,10 @@ The work is inspired by the attitudes and practices of alchemists in the pre-sci
 
 ![Liquid Prism image 1](assets/images/img_LiquidPrism_1.png)
 
-:Exhibition, Water paths, Performance, 24.05.2024, MS Dauerwelle - HFK Boat, Bremen
-Germany Photo: Jimmy Liu, Hsu HsunHsiang
+: Exhibition, Water paths, Performance, 24.05.2024, MS Dauerwelle - HFK Boat, Bremen, Germany 
+- Photo: Jimmy Liu, Hsu HsunHsiang
 
-Video link : https://vimeo.com/980528463
+Video link: https://vimeo.com/980528463
 - Video recorded by Gabriela Valdespino, Alethia Pinzon Rodriguez
 - Video edited by Chihim Chik
 
