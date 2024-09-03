@@ -21,8 +21,8 @@ Video link: https://vimeo.com/980528463
 - Video edited by Chihim Chik
 
 ## Interaction diagram
-The instrument consists of eight signal generators made up of test tubes and electronic circuits. Each device generates two kinds of signals from chemical reactions inside the tubes and transmits them to the sound system, which generates soundscapes based on two kinds of data. The lasers in the device are scattered by the bubbles inside the tube, and this interaction is converted into a digital signal that is transmitted. Piezo sensors coupled to the mouth of the tube transmits the vibrations created by the bubbles inside to the system.
-![Liquid Prism image 2](assets/images/diagram.png)
+The instrument consists of eight signal generators made up of test tubes and electronic circuits. Each device generates two kinds of signals from chemical reactions inside the tubes and transmits them to the sound system, which generates soundscapes based on two kinds of data. The lasers in the device are scattered by the bubbles inside the tube, and this interaction is converted into a digital signal that is transmitted. Piezo sensors coupled to the mouth of the tube transmit the vibrations created by the bubbles inside to the system.
+![Liquid Prism image 2](assets/images/diagram.jpg)
 
 ## Gallery
 ![Liquid Prism image 3](assets/images/img_LiquidPrism_2.png)
