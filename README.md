@@ -24,6 +24,13 @@ Video link: https://vimeo.com/980528463
 The instrument consists of eight signal generators made up of test tubes and electronic circuits. Each device generates two kinds of signals from chemical reactions inside the tubes and transmits them to the sound system, which generates soundscapes based on two kinds of data. The lasers in the device are scattered by the bubbles inside the tube, and this interaction is converted into a digital signal that is transmitted. Piezo sensors coupled to the mouth of the tube transmit the vibrations created by the bubbles inside to the system.
 ![Liquid Prism image 2](assets/images/diagram.jpg)
 
+## Schematics
+- ESP32 Light sensor board
+![Liquid Prism image 3](assets/images/img_board_sch_1.jpg)
+
+- Power Distribution board
+![Liquid Prism image 3](assets/images/img_board_sch_2.jpg)
+
 ## Gallery
 ![Liquid Prism image 3](assets/images/img_LiquidPrism_2.png)
 ![Liquid Prism image 4](assets/images/img_LiquidPrism_3.png)
